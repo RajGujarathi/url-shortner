@@ -11,20 +11,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "base62": "^2.0.1",
+    //"base62": "^2.0.1",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.6",
     "date-and-time": "^1.0.1",
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.6",
     "jsonwebtoken": "^8.5.1",
-    "nanoid": "^3.1.23",
-    "nodejs-base64": "^2.0.0",
+   // "nanoid": "^3.1.23",
+    //"nodejs-base64": "^2.0.0",
     "nodemon": "^2.0.7",
     "pg": "^8.6.0",
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.6.2",
-    "sha224": "^1.0.0",
+    //"sha224": "^1.0.0",
     "valid-url": "^1.0.9"
   }
 }
